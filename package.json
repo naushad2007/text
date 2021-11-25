@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saurabhdaware/text-to-handwriting.git"
+    "url": "https://github.com/naushad2007/text.git"
   },
   "keywords": [],
-  "author": "Saurabh Daware <saurabhdaware99@gmail.com> (https://saurabhdaware.in/)",
+  "author": "naushad2007 <naushadnaushad7777@gmail.com> (https://texttohandwriting257.netlify.app/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saurabhdaware/text-to-handwriting/issues"
+    "url": "https://github.com/naushad2007/text"
   },
-  "homepage": "https://github.com/saurabhdaware/text-to-handwriting#readme",
+  "homepage": "https://github.com/naushad2007/text",
   "devDependencies": {
     "cypress": "^4.4.1",
     "eslint": "^7.0.0",
